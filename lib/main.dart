@@ -48,7 +48,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-const Text('Main branch version of text'),            Text(
+const Text('Feature branch different version of text'),            Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
