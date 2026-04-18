@@ -31,13 +31,13 @@ class _HomePageState extends State<HomePage> {
 
   void addIncome() {
     setState(() {
-      balance += 200;
+      balance += 500;
     });
   }
 
   void addExpense() {
     setState(() {
-      balance -= 50;
+      balance -= 70;
     });
   }
 
