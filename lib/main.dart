@@ -37,7 +37,7 @@ class _HomePageState extends State<HomePage> {
 
   void addExpense() {
     setState(() {
-      balance -= 11;
+      balance -= 50;
     });
   }
 
