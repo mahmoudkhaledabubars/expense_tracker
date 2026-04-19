@@ -39,7 +39,9 @@ class _HomePageState extends State<HomePage> {
     setState(() {
 
 
-      balance -= 140;
+
+
+      balance -= 180;
 
     });
   }
